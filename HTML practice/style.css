@@ -1,0 +1,50 @@
+
+
+body {
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  padding: 1em;
+  background-color: #f7f3f3;
+}
+
+h1 {
+  font-size: 4em;
+  margin: 0.1em 0;
+  color: #915044;
+}
+
+h3 {
+  font-size: 2em;
+  margin: 0.1em 0;
+  color: #BA958F;
+}
+
+h4 {
+  font-size: 1.5em;
+  margin: 0.25em 0;
+  font-weight: bold;
+}
+
+.review {
+  font-size: 1.5em;
+  padding: 2em;
+}
+
+.important {
+  color: black;
+
+}
+
+.normal {
+  color:#915044;
+}
+
+img {
+  max-width: 60%;
+  padding: 1em;
+}
+
+a {
+  text-align: center;
+}
