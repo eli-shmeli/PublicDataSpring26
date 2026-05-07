@@ -26,10 +26,13 @@ h4 {
   font-weight: bold;
 }
 
+
 .review {
   font-size: 1.5em;
   padding: 2em;
 }
+
+/*added these selector classes so i could highlight important parts of the text*/
 
 .important {
   color: black;
